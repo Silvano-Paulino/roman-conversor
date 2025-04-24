@@ -17,7 +17,7 @@ This project provides a command-line interface (CLI) tool for converting between
 
 ### Prerequisites
 
-- [Go](https://golang.org/dl/) (version 1.19 or higher)
+- [Go](https://golang.org/dl/)
 
 ### Steps
 
