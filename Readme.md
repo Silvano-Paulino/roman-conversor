@@ -115,10 +115,3 @@ Contributions are welcome! Feel free to open issues or submit pull requests to i
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
-
-## Author
-
-Developed by Silvano Paulino.  
-- GitHub: [silvano-paulino](https://github.com/silvano-paulino)
-
----  
